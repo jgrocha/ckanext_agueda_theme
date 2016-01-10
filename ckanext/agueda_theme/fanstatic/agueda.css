@@ -1,0 +1,17 @@
+@media (min-width: 768px) {
+  .heroag {
+    background: url("img/header.jpg");
+  }
+}
+
+.branco {
+  color: white;
+  text-align: center;
+}
+
+.logotipo {
+  display: block;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
